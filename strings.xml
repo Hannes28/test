@@ -1,0 +1,17 @@
+<!-- ../res/values/strings.xml  -->
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QuizApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">Einloggen</string>
+    <string name="createAcc">Account erstellen</string>
+    <string name="einleitung">hallo</string>
+    <string name="zufallscodeb">Zufallscode eingeben</string>
+    <string name="zufallscode">12345678</string>
+    <string name="frage">test frage test frage test frage test frage test frage test fragetest frage test frage test fragetest frage test frage test fragetest frage test frage test frage</string>
+    <string name="rundenNr"> 1/10</string>
+
+</resources>
